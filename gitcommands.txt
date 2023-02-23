@@ -11,3 +11,4 @@ git checkout
 git stash
 git stash pop/apply
 git checkout -b <branch_name>
+git clone
