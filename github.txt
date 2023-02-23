@@ -1,0 +1,11 @@
+Google drive
+
+sharable over the network.
+
+Repository === folder
+
+
+New => 
+
+directory == folder
+terminal => CLI

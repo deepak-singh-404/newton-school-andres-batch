@@ -1,0 +1,75 @@
+VS CODE
+
+1- CODE EDITOR
+
+
+FRONTEND
+
+HTML + CSS + JAVASCRIPT + DOM (Document object model)
+
+HTML => HYPER TEXT MARKUP LANGUAGE => CONTENT 
+CSS =>  CASCADING STYLE SHEET => STYLE TO THE WEBSITE
+JAVASCRIPT => LOGICAL PART HANDLED BY JAVASCRIPT
+
+REACT, ANGULAR, VUE
+
+REACT (library) => FACEBOOK
+ANGULAR(framework) => GOOGLE
+
+
+
+
+BACKEND
+
+NODEJS
+EXPRESS
+DATABASE (MONGODNB, MYSQL)
+DEVOPS
+
+
+
+
+
+title
+body
+div
+section
+h1,h2,h3..h6
+img
+br
+td
+a
+li
+ol
+ul
+span
+p
+button
+form
+input
+
+
+Relative path
+
+Absolute path
+
+Eg:
+
+1- Right of hanuman gali  //Relative Path     
+
+dir 
+
+2- E 14, 1st floor, Sector 52, Noida, 110030, India  //Absolute Path
+
+
+
+
+
+SHIRT
+
+SHIRT KE lIYE KPDE LIYE => TAILOR => SHIRT => PEHNE
+
+
+mall => 1000 => shirt 
+
+

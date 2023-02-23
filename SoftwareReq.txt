@@ -1,0 +1,8 @@
+1-VS CODE => CODE EDITOR
+https://code.visualstudio.com/download
+
+2-DOWNLOAD GIT
+https://git-scm.com/download/win
+
+3-Create profile on github
+https://github.com/signup
